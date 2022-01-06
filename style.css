@@ -83,9 +83,49 @@ body{
                 padding:20px 40px ;
                 border-radius: 10px;
             }
+            .third-part{
+                display: flex;
+                margin-top: 400px;
+            }
+             .third-box{
+                 width: 50%;
+             }
+             .third-box img{
+                 width: 40%;
+                 height: 70%;
+                 margin-right: 500px;
+                 padding-left: 200px;
+                 
+                 
+             }
+         #third-start{
+             margin-top: -300px;
+         }
+         #third-end{
+             margin-top: -320px;
+             width: 400px;
+             font-size: 20px;
+             text-align: justify;
+             margin-bottom: 100px;
              
-         
-
+             
+         }
+         .last{
+             display: flex;
+             margin-top: 200px;
+         }
+         .same-end{
+             width: 50%;
+         }
+.same-end img{
+    width: 40%;
+    height: 70%;
+    margin-left: 600px;
+    margin-top:-600px;
+}
+#last-turn{
+    margin-bottom: 100px;
+}
          
     
         
